@@ -1,0 +1,7 @@
+name: lab2subtask2
+
+services:
+  lab:
+    build: .
+    volumes:
+      - .:/opt
